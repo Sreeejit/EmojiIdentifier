@@ -1,0 +1,21 @@
+#EMOJI-CENTURY-HEADING{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+
+#Happy2{
+color: gold;
+}
+
+#Sad2{
+color: blue;
+}
+
+#Angry2{
+color: red;
+}
+
+body{
+background-color: lightblue;
+}
